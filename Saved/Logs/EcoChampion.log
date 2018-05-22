@@ -1,0 +1,1326 @@
+﻿Log file open, 05/22/18 16:13:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EcoChampion
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-368056173) SRandInit(-368056172).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.241994
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.473s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am sinety-PC (192.168.178.30:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.22-14.13.07:179][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.22-14.13.07:179][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.22-14.13.07:183][  0]LogInit: Computer: SINETY-PC
+[2018.05.22-14.13.07:183][  0]LogInit: User: sinety
+[2018.05.22-14.13.07:183][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.22-14.13.07:183][  0]LogInit: High frequency timer resolution =3.904042 MHz
+[2018.05.22-14.13.07:183][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.22-14.13.07:183][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.22-14.13.07:183][  0]LogMemory: Process Physical Memory: 276.96 MB used, 276.96 MB peak
+[2018.05.22-14.13.07:183][  0]LogMemory: Process Virtual Memory: 268.42 MB used, 268.42 MB peak
+[2018.05.22-14.13.07:183][  0]LogMemory: Physical Memory: 9203.66 MB used,  7123.24 MB free, 16326.90 MB total
+[2018.05.22-14.13.07:184][  0]LogMemory: Virtual Memory: 645.74 MB used,  7123.24 MB free, 8388608.00 MB total
+[2018.05.22-14.13.07:204][  0]LogInit: Using OS detected language (de-DE).
+[2018.05.22-14.13.07:204][  0]LogInit: Using OS detected locale (de-DE).
+[2018.05.22-14.13.07:206][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.05.22-14.13.07:560][  0]LogStreaming: Display: Took  0.356s to EndInitTextLocalization.
+[2018.05.22-14.13.07:560][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.05.22-14.13.07:560][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.05.22-14.13.07:560][  0]LogInit: Setting process to DPI aware
+[2018.05.22-14.13.07:564][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.05.22-14.13.07:564][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.05.22-14.13.07:564][  0]LogInit: Setting process to DPI aware
+[2018.05.22-14.13.07:581][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.22-14.13.07:581][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.22-14.13.07:700][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.22-14.13.07:724][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.05.22-14.13.07:724][  0]LogD3D11RHI:       6042/0/7907 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.22-14.13.07:724][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.22-14.13.07:728][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.22-14.13.07:728][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.22-14.13.07:728][  0]LogWindows: EnumDisplayDevices:
+[2018.05.22-14.13.07:728][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.05.22-14.13.07:728][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.05.22-14.13.07:728][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.05.22-14.13.07:729][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.05.22-14.13.07:729][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.05.22-14.13.07:729][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.05.22-14.13.07:729][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.05.22-14.13.07:729][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.05.22-14.13.07:729][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.05.22-14.13.07:729][  0]LogD3D11RHI:   Driver Version: 390.65 (internal:23.21.13.9065, unified:390.65)
+[2018.05.22-14.13.07:729][  0]LogD3D11RHI:      Driver Date: 1-3-2018
+[2018.05.22-14.13.07:729][  0]LogRHI: Texture pool is 4229 MB (70% of 6042 MB)
+[2018.05.22-14.13.07:741][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.22-14.13.07:741][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.22-14.13.07:741][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.22-14.13.07:758][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.22-14.13.07:799][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (D:/New Festplatte/Projekte/EcoChampion/Intermediate/Shaders/WorkingDirectory/10716/).
+[2018.05.22-14.13.07:799][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sinety/AppData/Local/Temp/UnrealShaderWorkingDir/0151234F4D0ACCBE5FF7E8BD7F15DCF8/'.
+[2018.05.22-14.13.07:951][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.22-14.13.07:962][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.22-14.13.07:974][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.22-14.13.07:985][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.22-14.13.07:996][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.22-14.13.08:007][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.22-14.13.08:018][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.22-14.13.08:029][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.22-14.13.08:034][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.22-14.13.08:045][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.22-14.13.08:055][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.22-14.13.08:065][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.22-14.13.08:075][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.22-14.13.08:085][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.22-14.13.08:096][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.22-14.13.08:116][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.22-14.13.08:117][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.22-14.13.08:127][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.22-14.13.08:128][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.22-14.13.08:161][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.22-14.13.08:171][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.22-14.13.08:181][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.22-14.13.08:191][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.22-14.13.08:201][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.22-14.13.08:211][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.22-14.13.08:211][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.22-14.13.08:278][  0]LogXGEController: Cleaning working directory: C:/Users/sinety/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.22-14.13.08:278][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.22-14.13.08:278][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.22-14.13.08:278][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.22-14.13.08:874][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.22-14.13.08:936][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/sinety/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.22-14.13.08:936][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sinety/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.22-14.13.08:936][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/New Festplatte/Projekte/EcoChampion/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.22-14.13.08:936][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.22-14.13.08:936][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/New Festplatte/Projekte/EcoChampion/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.22-14.13.08:936][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.22-14.13.08:952][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.22-14.13.08:963][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sinety/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.22-14.13.08:963][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.22-14.13.08:963][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.22-14.13.08:973][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.22-14.13.08:973][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.22-14.13.08:973][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.22-14.13.08:973][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.22-14.13.09:057][  0]LogAssetRegistry: FAssetRegistry took 0.0232 seconds to start up
+[2018.05.22-14.13.09:364][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.22-14.13.09:415][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.22-14.13.09:418][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.22-14.13.09:418][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.22-14.13.09:418][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.22-14.13.09:418][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.22-14.13.09:418][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.22-14.13.09:518][  0]LogNetVersion: EcoChampion , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 466303179)
+[2018.05.22-14.13.09:851][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.017061 seconds
+[2018.05.22-14.13.09:855][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.22-14.13.09:855][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.22-14.13.09:855][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.22-14.13.11:069][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.22-14.13.11:090][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.22-14.13.11:305][  0]SourceControl: Source control is disabled
+[2018.05.22-14.13.11:306][  0]SourceControl: Source control is disabled
+[2018.05.22-14.13.11:314][  0]SourceControl: Source control is disabled
+[2018.05.22-14.13.11:323][  0]SourceControl: Source control is disabled
+[2018.05.22-14.13.11:618][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.22-14.13.11:739][  0]LogOcInput: OculusInput pre-init called
+[2018.05.22-14.13.11:816][  0]LogEngine: Initializing Engine...
+[2018.05.22-14.13.11:817][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.22-14.13.11:818][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.22-14.13.11:818][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.22-14.13.12:018][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.22-14.13.12:041][  0]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.13.12:050][  0]LogInit: FAudioDevice initialized.
+[2018.05.22-14.13.12:118][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/sinety/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.22-14.13.12:128][  0]LogInit: Texture streaming: Enabled
+[2018.05.22-14.13.12:143][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.22-14.13.12:153][  0]LogInit: Transaction tracking system initialized
+[2018.05.22-14.13.12:170][  0]BlueprintLog: New page: Editor Load
+[2018.05.22-14.13.12:235][  0]LocalizationService: Localization service is disabled
+[2018.05.22-14.13.12:303][  0]LogConsoleResponse: Display: 
+[2018.05.22-14.13.12:428][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.22-14.13.12:428][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.22-14.13.12:428][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.22-14.13.12:428][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.22-14.13.12:428][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.22-14.13.12:639][  0]LogFileCache: Scanning file cache for directory 'D:/New Festplatte/Projekte/EcoChampion/Content/' took 0.01s
+[2018.05.22-14.13.12:639][  0]SourceControl: Source control is disabled
+[2018.05.22-14.13.12:639][  0]Cmd: MAP LOAD FILE="D:/New Festplatte/Projekte/EcoChampion/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.22-14.13.12:639][  0]LightingResults: New page: Lighting Build
+[2018.05.22-14.13.12:642][  0]MapCheck: New page: Map Check
+[2018.05.22-14.13.12:642][  0]LightingResults: New page: Lighting Build
+[2018.05.22-14.13.12:658][  0]LogAIModule: Creating AISystem for world MainLevel
+[2018.05.22-14.13.12:659][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.22-14.13.12:668][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.22-14.13.12:694][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 26,195ms to complete.
+[2018.05.22-14.13.12:694][  0]LogFileHelpers: Loading map 'MainLevel' took 0.055
+[2018.05.22-14.13.12:811][  0]LogCollectionManager: Loaded 0 collections in 0.000993 seconds
+[2018.05.22-14.13.12:847][  0]LogFileCache: Scanning file cache for directory 'D:/New Festplatte/Projekte/EcoChampion/Saved/Collections/' took 0.01s
+[2018.05.22-14.13.12:847][  0]LogFileCache: Scanning file cache for directory 'D:/New Festplatte/Projekte/EcoChampion/Content/Developers/sinety/Collections/' took 0.01s
+[2018.05.22-14.13.12:847][  0]LogFileCache: Scanning file cache for directory 'D:/New Festplatte/Projekte/EcoChampion/Content/Collections/' took 0.01s
+[2018.05.22-14.13.12:847][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.22-14.13.12:856][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2453 classes and 560 folders.
+[2018.05.22-14.13.12:862][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.22-14.13.12:886][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.22-14.13.12:938][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.22-14.13.12:941][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.22-14.13.12:944][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.22-14.13.13:024][  0]LogRenderer: Reallocating scene render targets to support 1552x620 Format 10 NumSamples 1 (Frame:1).
+[2018.05.22-14.13.13:106][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.22-14.13.13:106][  0]LogLoad: (Engine Initialization) Total time: 7.31 seconds
+[2018.05.22-14.13.13:106][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.22-14.13.13:146][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.22-14.13.13:188][  1]LogAssetRegistry: Asset discovery search completed in 4.1504 seconds
+[2018.05.22-14.13.13:189][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.22-14.13.13:189][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2018.05.22-14.13.20:340][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.22-14.13.24:142][311]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.22-14.13.24:170][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005a1b2440, Size=96, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.13.24:174][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005a1b2440, Size=96
+[2018.05.22-14.13.24:174][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005a1b2bc0, Size=96, Default__BP_Pixel_C Function /Engine/Transient.REINST_BP_Pixel_C_3:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.13.24:177][311]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000593a7b20, Size=96, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.13.24:226][311]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.13.24:259][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005a1b2bc0, Size=96
+[2018.05.22-14.13.24:260][311]Cmd: MAP LOAD FILE="D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.22-14.13.24:261][311]LightingResults: New page: Lighting Build
+[2018.05.22-14.13.24:261][311]LoadErrors: New page: Loading map: Level01.umap
+[2018.05.22-14.13.24:261][311]MapCheck: New page: Map Check
+[2018.05.22-14.13.24:261][311]LightingResults: New page: Lighting Build
+[2018.05.22-14.13.24:345][311]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.22-14.13.24:364][311]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.22-14.13.24:391][311]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 27,448ms to complete.
+[2018.05.22-14.13.24:392][311]LogFileHelpers: Loading map 'Level01' took 0.132
+[2018.05.22-14.13.26:925][609]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.13.26:933][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.13.26:933][609]PIE: New page: PIE session: Level01 (22.05.2018 18:13:26)
+[2018.05.22-14.13.26:933][609]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.13.26:939][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005633s)
+[2018.05.22-14.13.26:939][609]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.13.26:939][609]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2018.05.22-14.13.26:939][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.006344s)
+[2018.05.22-14.13.26:954][609]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.13.26:963][609]LogInit: FAudioDevice initialized.
+[2018.05.22-14.13.27:016][609]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.13.27:020][609]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.13.27
+[2018.05.22-14.13.27:021][609]LogWorld: Bringing up level for play took: 0.004262
+[2018.05.22-14.13.27:024][609]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.05.22-14.13.27:029][609]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 0,909
+[2018.05.22-14.13.27:073][609]LogRenderer: Reallocating scene render targets to support 1552x756 Format 10 NumSamples 1 (Frame:1).
+[2018.05.22-14.19.09:129][653]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.19.09:469][653]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.19.09:479][653]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.19.09:499][653]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.19.09:499][653]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.19.09:499][653]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.19.09:499][653]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.19.09:511][653]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.05.22-14.19.09:526][653]LogSlate: Took 0.000853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.22-14.19.09:747][656]LogSlate: Took 0.003070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.22-14.19.10:119][681]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.19.10:137][682]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.19.10:161][683]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.19.10:187][684]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.19.10:272][689]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.19.10:287][690]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.19.10:308][691]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.19.10:469][700]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.19.10:470][700]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.19.10:589][707]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.19.10:624][709]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.19.10:641][710]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.19.10:787][718]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.19.10:823][720]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.19.10:908][725]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.19.10:908][725]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.19.10:908][725]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.19.10:908][725]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.19.10:908][725]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.24.15:945][336]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.05.22-14.24.16:172][336]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000098e84818, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.22-14.24.16:172][336]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000098e84810, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.22-14.24.20:596][548]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.32.15:925][328]BlueprintLog: New page: Compile BP_Pixel
+[2018.05.22-14.32.15:943][328]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000593a7b20, Size=96
+[2018.05.22-14.32.15:943][328]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000a384e3e0, Size=96, Default__BP_Pixel_C Function /Engine/Transient.REINST_BP_Pixel_C_19:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.32.15:947][328]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000a5985d80, Size=128, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.32.23:814][625]LogEditorViewport: Clicking Background
+[2018.05.22-14.32.24:042][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.22-14.32.24:050][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame02/Level01" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.22-14.32.24:067][651]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000a384e3e0, Size=96
+[2018.05.22-14.32.24:157][651]LogSavePackage: Save=88.50ms
+[2018.05.22-14.32.24:157][651]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/Level0135ABB7BC4AB36DCF951F1B85534134BF.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap'
+[2018.05.22-14.32.24:157][651]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap
+[2018.05.22-14.32.26:340][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame02/Blueprints/BP_Pixel" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Blueprints/BP_Pixel.uasset" SILENT=true
+[2018.05.22-14.32.26:375][904]LogSavePackage: Save=33.26ms
+[2018.05.22-14.32.26:375][904]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/BP_PixelDF87D75F4C6D9A9674B73AA57052328D.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Blueprints/BP_Pixel.uasset'
+[2018.05.22-14.32.26:375][904]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Blueprints/BP_Pixel.uasset
+[2018.05.22-14.32.27:152][997]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.32.27:169][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.32.27:169][997]PIE: New page: PIE session: Level01 (22.05.2018 18:32:27)
+[2018.05.22-14.32.27:169][997]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.32.27:174][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005155s)
+[2018.05.22-14.32.27:175][997]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.32.27:175][997]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.05.22-14.32.27:175][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005899s)
+[2018.05.22-14.32.27:197][997]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.32.27:207][997]LogInit: FAudioDevice initialized.
+[2018.05.22-14.32.27:249][997]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.32.27:253][997]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.32.27
+[2018.05.22-14.32.27:254][997]LogWorld: Bringing up level for play took: 0.004343
+[2018.05.22-14.32.27:259][997]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 -0,878
+[2018.05.22-14.32.31:272][466]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.32.33:027][666]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.32.33:035][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.32.33:035][666]PIE: New page: PIE session: Level01 (22.05.2018 18:32:33)
+[2018.05.22-14.32.33:035][666]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.32.33:040][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005286s)
+[2018.05.22-14.32.33:041][666]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.32.33:041][666]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2018.05.22-14.32.33:041][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005884s)
+[2018.05.22-14.32.33:062][666]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.32.33:070][666]LogInit: FAudioDevice initialized.
+[2018.05.22-14.32.33:114][666]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.32.33:118][666]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.32.33
+[2018.05.22-14.32.33:119][666]LogWorld: Bringing up level for play took: 0.004365
+[2018.05.22-14.32.33:124][666]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 0,987
+[2018.05.22-14.32.41:568][668]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.33.09:655][553]BlueprintLog: New page: Compile BP_Pixel
+[2018.05.22-14.33.09:671][553]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000a5985d80, Size=128
+[2018.05.22-14.33.09:671][553]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009b6e6c00, Size=128, Default__BP_Pixel_C Function /Engine/Transient.REINST_BP_Pixel_C_23:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.33.09:675][553]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000a7a04500, Size=120, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.33.17:601][802]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.33.17:617][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.33.17:617][802]PIE: New page: PIE session: Level01 (22.05.2018 18:33:17)
+[2018.05.22-14.33.17:617][802]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.33.17:622][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005211s)
+[2018.05.22-14.33.17:622][802]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.33.17:623][802]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2018.05.22-14.33.17:623][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005887s)
+[2018.05.22-14.33.17:639][802]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009b6e6c00, Size=128
+[2018.05.22-14.33.17:646][802]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.33.17:654][802]LogInit: FAudioDevice initialized.
+[2018.05.22-14.33.17:693][802]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.33.17:696][802]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.33.17
+[2018.05.22-14.33.17:697][802]LogWorld: Bringing up level for play took: 0.004208
+[2018.05.22-14.33.17:702][802]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 -0,436
+[2018.05.22-14.33.30:334][301]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.33.34:839][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.22-14.33.34:888][831]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.33.34:896][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.33.34:896][831]PIE: New page: PIE session: Level01 (22.05.2018 18:33:34)
+[2018.05.22-14.33.34:896][831]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.33.34:901][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005045s)
+[2018.05.22-14.33.34:902][831]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.33.34:902][831]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2018.05.22-14.33.34:902][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005630s)
+[2018.05.22-14.33.34:923][831]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.33.34:931][831]LogInit: FAudioDevice initialized.
+[2018.05.22-14.33.34:971][831]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.33.34:974][831]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.33.34
+[2018.05.22-14.33.34:975][831]LogWorld: Bringing up level for play took: 0.003958
+[2018.05.22-14.33.34:980][831]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 0,842
+[2018.05.22-14.33.46:803][238]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.33.48:375][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame02/Blueprints/BP_Pixel" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Blueprints/BP_Pixel.uasset" SILENT=true
+[2018.05.22-14.33.48:403][411]LogSavePackage: Save=26.83ms
+[2018.05.22-14.33.48:403][411]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/BP_PixelBDF2B30640C90BE0B91CA1B7221FF1EA.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Blueprints/BP_Pixel.uasset'
+[2018.05.22-14.33.48:403][411]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Blueprints/BP_Pixel.uasset
+[2018.05.22-14.33.49:265][514]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.33.49:273][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.33.49:273][514]PIE: New page: PIE session: Level01 (22.05.2018 18:33:49)
+[2018.05.22-14.33.49:273][514]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.33.49:279][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005275s)
+[2018.05.22-14.33.49:279][514]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.33.49:279][514]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2018.05.22-14.33.49:279][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005938s)
+[2018.05.22-14.33.49:300][514]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.33.49:308][514]LogInit: FAudioDevice initialized.
+[2018.05.22-14.33.49:350][514]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.33.49:354][514]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.33.49
+[2018.05.22-14.33.49:355][514]LogWorld: Bringing up level for play took: 0.004250
+[2018.05.22-14.33.49:360][514]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 -0,778
+[2018.05.22-14.34.11:770][ 67]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.34.12:383][132]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.34.12:391][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.34.12:391][132]PIE: New page: PIE session: Level01 (22.05.2018 18:34:12)
+[2018.05.22-14.34.12:391][132]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.34.12:396][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005181s)
+[2018.05.22-14.34.12:396][132]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.34.12:397][132]LogPlayLevel: PIE: World Init took: (0.000472s)
+[2018.05.22-14.34.12:397][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005771s)
+[2018.05.22-14.34.12:418][132]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.34.12:425][132]LogInit: FAudioDevice initialized.
+[2018.05.22-14.34.12:468][132]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.34.12:471][132]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.34.12
+[2018.05.22-14.34.12:472][132]LogWorld: Bringing up level for play took: 0.004190
+[2018.05.22-14.34.12:478][132]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 0,34
+[2018.05.22-14.34.18:919][812]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.34.38:671][710]BlueprintLog: New page: Compile BP_Pixel
+[2018.05.22-14.34.38:687][710]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000a7a04500, Size=120
+[2018.05.22-14.34.38:687][710]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000053959300, Size=120, Default__BP_Pixel_C Function /Engine/Transient.REINST_BP_Pixel_C_27:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.34.38:691][710]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009b6e6e80, Size=128, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.34.45:417][872]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.34.45:432][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.34.45:432][872]PIE: New page: PIE session: Level01 (22.05.2018 18:34:45)
+[2018.05.22-14.34.45:432][872]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.34.45:437][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004990s)
+[2018.05.22-14.34.45:438][872]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.34.45:438][872]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2018.05.22-14.34.45:438][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005569s)
+[2018.05.22-14.34.45:452][872]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000053959300, Size=120
+[2018.05.22-14.34.45:461][872]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.34.45:469][872]LogInit: FAudioDevice initialized.
+[2018.05.22-14.34.45:510][872]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.34.45:514][872]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.34.45
+[2018.05.22-14.34.45:514][872]LogWorld: Bringing up level for play took: 0.004182
+[2018.05.22-14.34.45:519][872]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 -0,62
+[2018.05.22-14.34.49:722][367]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.34.51:538][575]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.34.51:545][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.34.51:546][575]PIE: New page: PIE session: Level01 (22.05.2018 18:34:51)
+[2018.05.22-14.34.51:546][575]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.34.51:551][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005171s)
+[2018.05.22-14.34.51:551][575]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.34.51:551][575]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2018.05.22-14.34.51:551][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005721s)
+[2018.05.22-14.34.51:573][575]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.34.51:581][575]LogInit: FAudioDevice initialized.
+[2018.05.22-14.34.51:621][575]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.34.51:625][575]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.34.51
+[2018.05.22-14.34.51:626][575]LogWorld: Bringing up level for play took: 0.004173
+[2018.05.22-14.34.51:632][575]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 -0,507
+[2018.05.22-14.34.56:216][917]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.34.58:240][ 99]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.34.58:248][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.34.58:248][ 99]PIE: New page: PIE session: Level01 (22.05.2018 18:34:58)
+[2018.05.22-14.34.58:248][ 99]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.34.58:254][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005234s)
+[2018.05.22-14.34.58:254][ 99]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.34.58:254][ 99]LogPlayLevel: PIE: World Init took: (0.000434s)
+[2018.05.22-14.34.58:254][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005839s)
+[2018.05.22-14.34.58:275][ 99]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.34.58:283][ 99]LogInit: FAudioDevice initialized.
+[2018.05.22-14.34.58:328][ 99]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.34.58:332][ 99]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.34.58
+[2018.05.22-14.34.58:333][ 99]LogWorld: Bringing up level for play took: 0.004212
+[2018.05.22-14.34.58:341][ 99]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 0,202
+[2018.05.22-14.35.01:199][239]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.35.03:442][438]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.35.03:450][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.35.03:450][438]PIE: New page: PIE session: Level01 (22.05.2018 18:35:03)
+[2018.05.22-14.35.03:450][438]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.35.03:455][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004901s)
+[2018.05.22-14.35.03:455][438]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.35.03:456][438]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.05.22-14.35.03:456][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005718s)
+[2018.05.22-14.35.03:478][438]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.35.03:485][438]LogInit: FAudioDevice initialized.
+[2018.05.22-14.35.03:528][438]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.35.03:532][438]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.35.03
+[2018.05.22-14.35.03:533][438]LogWorld: Bringing up level for play took: 0.004585
+[2018.05.22-14.35.03:541][438]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 -0,599
+[2018.05.22-14.35.05:748][601]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.35.06:599][670]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.35.06:607][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.35.06:607][670]PIE: New page: PIE session: Level01 (22.05.2018 18:35:06)
+[2018.05.22-14.35.06:608][670]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.35.06:613][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005129s)
+[2018.05.22-14.35.06:614][670]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.35.06:614][670]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2018.05.22-14.35.06:614][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.006394s)
+[2018.05.22-14.35.06:636][670]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.35.06:644][670]LogInit: FAudioDevice initialized.
+[2018.05.22-14.35.06:689][670]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.35.06:692][670]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.35.06
+[2018.05.22-14.35.06:693][670]LogWorld: Bringing up level for play took: 0.003970
+[2018.05.22-14.35.06:701][670]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 0,562
+[2018.05.22-14.35.13:840][130]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.36.00:156][600]BlueprintLog: New page: Compile BP_Pixel
+[2018.05.22-14.36.00:172][600]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009b6e6e80, Size=128
+[2018.05.22-14.36.00:172][600]LogUObjectGlobals: Created PersistentFrame Addr=0x000000005395b280, Size=128, Default__BP_Pixel_C Function /Engine/Transient.REINST_BP_Pixel_C_31:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.36.00:176][600]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009bdc2880, Size=120, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.36.06:845][782]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.36.06:855][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.36.06:855][782]PIE: New page: PIE session: Level01 (22.05.2018 18:36:06)
+[2018.05.22-14.36.06:855][782]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.36.06:860][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005148s)
+[2018.05.22-14.36.06:861][782]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.36.06:861][782]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2018.05.22-14.36.06:861][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005824s)
+[2018.05.22-14.36.06:877][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000005395b280, Size=128
+[2018.05.22-14.36.06:885][782]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.36.06:893][782]LogInit: FAudioDevice initialized.
+[2018.05.22-14.36.06:936][782]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.36.06:939][782]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.36.06
+[2018.05.22-14.36.06:941][782]LogWorld: Bringing up level for play took: 0.004338
+[2018.05.22-14.36.06:946][782]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 0,807
+[2018.05.22-14.36.15:318][770]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.37.33:513][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame02/Level01" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.22-14.37.33:619][445]LogSavePackage: Save=89.04ms
+[2018.05.22-14.37.33:619][445]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/Level016BDCDD7A42EF27E4CB4660803B34F61E.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap'
+[2018.05.22-14.37.33:620][445]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap
+[2018.05.22-14.37.35:134][624]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.37.35:141][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.37.35:141][624]PIE: New page: PIE session: Level01 (22.05.2018 18:37:35)
+[2018.05.22-14.37.35:141][624]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.37.35:147][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005724s)
+[2018.05.22-14.37.35:147][624]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.37.35:148][624]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2018.05.22-14.37.35:148][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.006348s)
+[2018.05.22-14.37.35:169][624]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.37.35:176][624]LogInit: FAudioDevice initialized.
+[2018.05.22-14.37.35:214][624]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.37.35:217][624]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.37.35
+[2018.05.22-14.37.35:218][624]LogWorld: Bringing up level for play took: 0.004049
+[2018.05.22-14.37.35:223][624]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 -0,917
+[2018.05.22-14.37.43:638][619]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.39.31:454][487]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.39.31:462][487]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.05.22-14.39.31:470][487]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.39.31:470][487]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.39.31:470][487]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.39.31:470][487]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.39.31:470][487]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.05.22-14.39.31:505][487]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.39.31:541][487]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.05.22-14.39.31:924][512]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.22-14.39.31:954][514]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.22-14.39.31:969][515]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.39.31:969][515]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.39.32:096][523]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.39.32:110][524]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.39.32:123][525]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.39.32:136][526]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.39.32:228][532]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.39.32:257][534]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.39.32:257][534]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.39.32:400][543]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.39.32:432][545]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.39.32:514][551]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.39.32:549][553]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.39.32:604][557]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.39.32:714][564]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.39.32:740][566]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.39.32:824][572]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.39.32:824][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.39.32:824][572]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.39.32:824][572]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.39.32:824][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.39.46:989][  5]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.39.47:010][  5]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.39.47:010][  5]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.39.47:010][  5]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.39.47:010][  5]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.39.47:023][  5]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.05.22-14.39.47:026][  5]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.05.22-14.39.47:031][  5]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.05.22-14.39.47:068][  5]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.39.47:140][  5]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.22-14.39.47:140][  5]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.22-14.39.47:152][  5]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.05.22-14.39.47:159][  5]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.22-14.39.47:232][  6]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.22-14.39.47:287][  8]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.39.47:333][ 11]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.39.47:347][ 12]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.39.47:367][ 13]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.39.47:446][ 18]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.39.47:462][ 19]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.39.47:488][ 21]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.39.47:517][ 23]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.39.47:595][ 28]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.39.47:676][ 33]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.39.47:738][ 37]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.39.47:767][ 39]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.39.47:875][ 46]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.39.47:908][ 48]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.39.48:004][ 54]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.39.48:021][ 55]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.39.48:155][ 64]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.39.48:155][ 64]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.39.48:155][ 64]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.39.48:155][ 64]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.39.48:155][ 64]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.40.03:231][554]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.40.03:240][554]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.40.03:240][554]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.40.03:240][554]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.40.03:240][554]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.40.03:263][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.05.22-14.40.03:268][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.05.22-14.40.03:278][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.05.22-14.40.03:317][554]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.40.03:352][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.05.22-14.40.03:359][554]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.05.22-14.40.03:359][554]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.05.22-14.40.03:429][555]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.22-14.40.03:469][556]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.22-14.40.03:521][559]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.40.03:578][563]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.40.03:595][564]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.40.03:633][566]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.40.03:684][569]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.40.03:738][572]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.40.03:773][574]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.40.03:858][579]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.40.03:858][579]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.40.04:026][589]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.40.04:040][590]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.40.04:101][594]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.40.04:158][597]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.40.04:193][599]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.40.04:324][607]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.40.04:338][608]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.40.04:426][614]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.40.04:426][614]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.40.04:426][614]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.40.04:426][614]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.40.04:426][614]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.41.22:749][410]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.41.22:761][410]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.22:761][410]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.22:761][410]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.22:761][410]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.22:784][410]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.05.22-14.41.22:787][410]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2018.05.22-14.41.23:221][438]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.23:221][438]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.23:251][440]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.23:251][440]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.23:360][446]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.41.23:360][446]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.41.23:391][448]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.41.23:528][456]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.41.23:528][456]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.41.23:661][464]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.41.23:692][466]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.41.23:692][466]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.41.23:834][474]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.41.23:864][476]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.41.23:893][478]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.41.23:942][481]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.41.23:969][482]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.41.23:969][482]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.41.23:969][482]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.41.23:969][482]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.41.23:969][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.41.25:682][632]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.41.25:695][632]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.25:695][632]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.25:695][632]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.25:695][632]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.25:717][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2018.05.22-14.41.25:720][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2018.05.22-14.41.25:725][632]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2018.05.22-14.41.25:862][632]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.25:862][632]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.25:862][632]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.25:862][632]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.25:865][632]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.41.25:965][633]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.05.22-14.41.26:001][634]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.05.22-14.41.26:018][635]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.22-14.41.26:134][642]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.22-14.41.26:150][643]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.26:183][645]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.26:208][646]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.26:308][652]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.26:314][652]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.41.26:346][654]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.41.26:378][656]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.41.26:440][660]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.41.26:455][661]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.41.26:487][663]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.41.26:516][665]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.41.26:674][674]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.41.26:721][677]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.41.26:753][679]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.41.26:801][682]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.41.26:901][688]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.41.27:064][699]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.41.27:064][699]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.41.27:064][699]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.41.27:064][699]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.41.27:065][699]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.41.32:204][137]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.41.32:216][137]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.32:216][137]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.32:216][137]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.32:216][137]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.32:240][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2018.05.22-14.41.32:245][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2018.05.22-14.41.32:362][141]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.32:393][143]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.32:393][143]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.32:393][143]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.32:494][149]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.41.32:529][151]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.41.32:529][151]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.41.32:664][159]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.41.32:697][161]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.41.32:774][166]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.41.32:830][169]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.41.32:862][171]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.41.32:988][178]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.41.33:019][180]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.41.33:035][181]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.41.33:105][185]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.41.34:310][290]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.41.34:310][290]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.41.34:310][290]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.41.34:310][290]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.41.34:310][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.41.35:908][433]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.41.35:921][433]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.35:921][433]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.35:921][433]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.35:921][433]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.35:921][433]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2018.05.22-14.41.35:949][433]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2018.05.22-14.41.36:031][433]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.36:073][433]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.36:106][436]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.36:158][439]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.36:190][441]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.41.36:206][442]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.41.36:234][444]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.41.36:375][451]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.41.36:429][455]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.41.36:477][458]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.41.36:533][461]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.41.36:580][464]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.41.36:685][470]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.41.36:703][471]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.41.36:746][474]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.41.36:795][477]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.41.36:821][478]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.41.36:821][478]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.41.36:821][478]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.41.36:821][478]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.41.36:821][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.41.39:164][680]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.41.39:178][680]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.41.39:178][680]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.41.39:178][680]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.39:178][680]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.39:178][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.05.22-14.41.39:293][680]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.41.39:317][681]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.41.39:317][681]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.41.39:447][687]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.41.39:479][689]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.41.39:495][690]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.41.39:495][690]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.41.39:672][700]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.41.39:703][702]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.41.39:760][706]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.41.39:811][709]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.41.39:874][713]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.41.39:981][719]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.41.39:999][720]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.41.40:132][727]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.41.40:132][727]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.41.40:132][727]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.41.40:132][727]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.41.40:132][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.43.24:918][510]BlueprintLog: New page: Compile BP_Pixel
+[2018.05.22-14.43.24:935][510]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009bdc2880, Size=120
+[2018.05.22-14.43.24:935][510]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000af042100, Size=120, Default__BP_Pixel_C Function /Engine/Transient.REINST_BP_Pixel_C_35:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.43.24:938][510]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000055a4d780, Size=120, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.43.39:808][568]LogEditorViewport: Clicking on Actor (LMB): BP_Pixel_C (BP_Pixel56)
+[2018.05.22-14.43.40:531][646]LogEditorViewport: Clicking on Actor (LMB): BP_Pixel_C (BP_Pixel49)
+[2018.05.22-14.43.40:907][686]LogEditorViewport: Clicking Background
+[2018.05.22-14.43.41:793][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.22-14.43.41:868][800]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.43.41:884][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.43.41:885][800]PIE: New page: PIE session: Level01 (22.05.2018 18:43:41)
+[2018.05.22-14.43.41:885][800]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.43.41:890][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005136s)
+[2018.05.22-14.43.41:890][800]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.43.41:890][800]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2018.05.22-14.43.41:890][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005692s)
+[2018.05.22-14.43.41:906][800]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000af042100, Size=120
+[2018.05.22-14.43.41:914][800]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.43.41:922][800]LogInit: FAudioDevice initialized.
+[2018.05.22-14.43.41:965][800]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.43.41:969][800]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.43.41
+[2018.05.22-14.43.41:970][800]LogWorld: Bringing up level for play took: 0.004563
+[2018.05.22-14.43.41:978][800]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 -0,168
+[2018.05.22-14.43.44:354][ 56]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.43.58:942][519]LogMaterialEditor: Saving and Compiling material M_Pixel
+[2018.05.22-14.43.59:391][519]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.43.59:420][519]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.43.59:420][519]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.43.59:420][519]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.43.59:420][519]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.43.59:427][519]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.43.59:442][519]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.43.59:487][519]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Pixel, compiling. 
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.44.00:575][519]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.44.00:578][519]TextureStreamingBuild: Display: Compiling optional shaders took 1.098 seconds.
+[2018.05.22-14.44.02:259][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Pixel" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel.uasset" SILENT=true
+[2018.05.22-14.44.02:270][519]LogSavePackage: Save=9.70ms
+[2018.05.22-14.44.02:270][519]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/M_PixelA90E120E45CF7CD7459DF69286CE65E9.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel.uasset'
+[2018.05.22-14.44.02:289][519]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel.uasset
+[2018.05.22-14.44.02:297][519]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.44.02:297][519]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.44.02:297][519]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.44.02:298][519]MaterialEditorStats: Texture samplers: 4/16
+[2018.05.22-14.44.02:298][519]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.47.44:682][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame02/Level01" FILE="D:/New Festplatte/Projekte/EcoChampion/Saved/Autosaves/Game/MiniGame02/Level01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.22-14.47.44:768][187]LogSavePackage: Save=85.54ms
+[2018.05.22-14.47.44:768][187]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/Level01_Auto17F8312F54CE75427AC3D21B735EAF6DA.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Saved/Autosaves/Game/MiniGame02/Level01_Auto1.umap'
+[2018.05.22-14.47.44:769][187]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Saved/Autosaves/Game/MiniGame02/Level01_Auto1.umap
+[2018.05.22-14.47.44:770][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MiniGame02/Level01' took 0.104
+[2018.05.22-14.47.44:770][187]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.104
+[2018.05.22-14.47.44:771][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MiniGame02/Blueprints/BP_Pixel] ([1] browsable assets)...
+[2018.05.22-14.47.44:782][187]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel]
+[2018.05.22-14.47.44:782][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame02/Blueprints/BP_Pixel]
+[2018.05.22-14.47.44:811][187]LogSavePackage: Save=27.81ms
+[2018.05.22-14.47.44:811][187]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/BP_Pixel_Auto1B9CDCF3B4C43CF14E07EAB816AD45613.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Saved/Autosaves/Game/MiniGame02/Blueprints/BP_Pixel_Auto1.uasset'
+[2018.05.22-14.47.44:840][187]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Saved/Autosaves/Game/MiniGame02/Blueprints/BP_Pixel_Auto1.uasset
+[2018.05.22-14.47.44:840][187]LogFileHelpers: Auto-saving content packages took 0.069
+[2018.05.22-14.51.08:524][463]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.51.08:534][463]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.51.08:534][463]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.51.08:534][463]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.08:534][463]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.08:923][486]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.51.09:003][487]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.51.09:003][487]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.51.09:019][488]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.09:035][489]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.09:162][497]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.51.09:162][497]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.51.09:175][498]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.51.09:187][499]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.51.09:296][506]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.51.09:313][507]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.51.09:313][507]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.51.09:452][516]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.51.09:469][517]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.51.09:575][524]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.51.09:620][527]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.51.09:636][528]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.51.09:867][544]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.51.09:867][544]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.51.09:867][544]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.51.09:867][544]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.51.09:867][544]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.51.11:371][687]LogMaterialEditor: Applying material M_Pixel
+[2018.05.22-14.51.11:809][687]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.51.11:832][687]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.51.11:832][687]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.51.11:832][687]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.11:832][687]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.11:842][687]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.51.11:857][687]LogMaterial: Missing cached shader map for material M_Pixel, compiling. 
+[2018.05.22-14.51.11:893][687]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Pixel, compiling. 
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.51.12:671][687]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.51.12:672][687]TextureStreamingBuild: Display: Compiling optional shaders took 0.787 seconds.
+[2018.05.22-14.51.13:166][722]LogMaterialEditor: Saving and Compiling material M_Pixel
+[2018.05.22-14.51.14:344][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Pixel" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel.uasset" SILENT=true
+[2018.05.22-14.51.14:365][722]LogSavePackage: Save=19.71ms
+[2018.05.22-14.51.14:365][722]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/M_Pixel2DACD95C4BD2E9597BF76FA796CDDE90.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel.uasset'
+[2018.05.22-14.51.14:365][722]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel.uasset
+[2018.05.22-14.51.14:371][722]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.51.14:371][722]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.51.14:371][722]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.51.14:371][722]MaterialEditorStats: Texture samplers: 4/16
+[2018.05.22-14.51.14:371][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.51.17:730][ 97]LogMaterial: Missing cached shader map for material M_Pixel_2, compiling. 
+[2018.05.22-14.51.17:752][ 98]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.22-14.51.17:752][ 98]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.51.17:752][ 98]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.51.18:698][188]LogMaterial: Missing cached shader map for material M_Pixel_3, compiling. 
+[2018.05.22-14.51.18:710][188]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.22-14.51.18:710][188]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.51.19:116][218]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.51.31:588][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Pixel_OnFire" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_OnFire.uasset" SILENT=true
+[2018.05.22-14.51.31:597][680]LogSavePackage: Save=8.45ms
+[2018.05.22-14.51.31:597][680]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/M_Pixel_OnFireA815E08145C41F67DD7182B3F0A360A7.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_OnFire.uasset'
+[2018.05.22-14.51.31:597][680]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_OnFire.uasset
+[2018.05.22-14.51.41:118][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Pixel_Burned" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_Burned.uasset" SILENT=true
+[2018.05.22-14.51.41:128][801]LogSavePackage: Save=8.82ms
+[2018.05.22-14.51.41:128][801]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/M_Pixel_BurnedFFBBA7EC45410DFE993FA0BAD8FB7E72.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_Burned.uasset'
+[2018.05.22-14.51.41:128][801]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_Burned.uasset
+[2018.05.22-14.51.44:920][239]LogMaterial: Missing cached shader map for material M_Pixel_Burned, compiling. 
+[2018.05.22-14.51.44:971][239]LogMaterial: Missing cached shader map for material M_Pixel_Burned, compiling. 
+[2018.05.22-14.51.44:979][239]LogMaterial: Missing cached shader map for material M_Pixel_Burned, compiling. 
+[2018.05.22-14.51.44:998][239]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.51.44:998][239]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.51.44:998][239]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.44:998][239]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.45:009][239]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.05.22-14.51.45:445][264]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.45:460][265]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.45:475][266]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.51.45:475][266]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.51.45:589][273]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.51.45:604][274]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.51.45:634][276]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.51.45:757][283]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.51.45:774][284]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.51.45:880][290]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.51.45:917][292]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.51.45:949][294]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.51.46:051][300]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.51.46:133][304]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.51.46:208][309]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.51.46:208][309]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.51.46:208][309]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.51.46:208][309]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.51.46:208][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.51.49:263][577]LogMaterial: Missing cached shader map for material M_Pixel_Burned, compiling. 
+[2018.05.22-14.51.49:274][577]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.51.49:274][577]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.51.49:274][577]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.49:274][577]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.49:276][577]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.05.22-14.51.49:340][577]LogMaterial: Missing cached shader map for material M_Pixel_Burned, compiling. 
+[2018.05.22-14.51.49:427][579]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.22-14.51.49:443][580]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.22-14.51.49:458][581]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.51.49:458][581]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.51.49:601][589]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.49:633][591]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.49:633][591]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.51.49:637][591]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.51.49:773][599]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.51.49:789][600]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.51.49:789][600]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.51.49:789][600]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.51.49:922][608]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.51.49:972][611]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.51.50:070][617]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.51.50:086][618]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.51.50:202][625]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.51.50:234][627]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.51.50:458][643]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.51.50:458][643]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.51.50:458][643]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.51.50:458][643]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.51.50:458][643]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.51.51:490][737]LogMaterialEditor: Applying material M_Pixel_Burned
+[2018.05.22-14.51.51:925][737]LogMaterial: Missing cached shader map for material M_Pixel_Burned, compiling. 
+[2018.05.22-14.51.51:952][737]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.51.51:952][737]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.51.51:952][737]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.51:952][737]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.51:961][737]LogMaterial: Missing cached shader map for material M_Pixel_Burned, compiling. 
+[2018.05.22-14.51.51:977][737]LogMaterial: Missing cached shader map for material M_Pixel_Burned, compiling. 
+[2018.05.22-14.51.52:010][737]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Pixel_Burned, compiling. 
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.05.22-14.51.52:787][737]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.22-14.51.52:788][737]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.22-14.51.52:788][737]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.05.22-14.51.52:788][737]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.22-14.51.52:788][737]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.51.52:788][737]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.51.52:789][737]TextureStreamingBuild: Display: Compiling optional shaders took 0.785 seconds.
+[2018.05.22-14.51.53:148][761]LogMaterialEditor: Saving and Compiling material M_Pixel_Burned
+[2018.05.22-14.51.54:427][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Pixel_Burned" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_Burned.uasset" SILENT=true
+[2018.05.22-14.51.54:437][761]LogSavePackage: Save=8.96ms
+[2018.05.22-14.51.54:437][761]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/M_Pixel_Burned0AC921C34176FDE823F5979B4C5A41F4.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_Burned.uasset'
+[2018.05.22-14.51.54:438][761]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_Burned.uasset
+[2018.05.22-14.51.54:444][761]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.51.54:444][761]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.51.54:444][761]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.51.54:444][761]MaterialEditorStats: Texture samplers: 4/16
+[2018.05.22-14.51.54:444][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.51.56:354][981]LogMaterial: Missing cached shader map for material M_Pixel_OnFire, compiling. 
+[2018.05.22-14.51.56:404][981]LogMaterial: Missing cached shader map for material M_Pixel_OnFire, compiling. 
+[2018.05.22-14.51.56:412][981]LogMaterial: Missing cached shader map for material M_Pixel_OnFire, compiling. 
+[2018.05.22-14.51.56:432][981]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.51.56:432][981]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.51.56:432][981]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.56:432][981]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.56:443][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.05.22-14.51.56:585][983]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.51.56:585][983]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.51.56:585][983]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.51.56:661][987]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.51.56:725][991]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.51.56:725][991]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.51.56:739][992]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.51.56:900][  1]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.51.56:947][  4]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.51.57:026][  9]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.51.57:065][ 11]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.51.57:111][ 14]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.51.57:239][ 21]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.51.57:268][ 23]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.51.57:330][ 27]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.51.57:330][ 27]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.51.57:330][ 27]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.51.57:330][ 27]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.51.57:330][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.52.06:940][855]LogTexture: Display: Building textures: T_Schlagloch (BGRA8, 234X147)
+[2018.05.22-14.52.06:942][855]LogMaterial: Missing cached shader map for material M_Pixel_OnFire, compiling. 
+[2018.05.22-14.52.06:957][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.05.22-14.52.06:970][855]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.52.06:970][855]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.52.06:970][855]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.52.06:970][855]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.52.07:075][855]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.52.07:077][855]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.52.07:077][855]LogMaterial: Missing cached shader map for material M_Pixel_OnFire, compiling. 
+[2018.05.22-14.52.07:131][857]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.22-14.52.07:148][858]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.52.07:215][862]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.52.07:305][867]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.52.07:305][867]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.52.07:326][868]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.52.07:370][871]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.22-14.52.07:458][876]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.22-14.52.07:458][876]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.22-14.52.07:473][877]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.22-14.52.07:518][880]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.22-14.52.07:604][885]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.22-14.52.07:687][890]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.22-14.52.07:736][893]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.22-14.52.07:772][895]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.22-14.52.07:911][903]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.52.07:912][903]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.22-14.52.08:153][920]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.52.08:153][920]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.52.08:153][920]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.52.08:153][920]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.22-14.52.08:153][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.52.11:723][241]LogMaterialEditor: Applying material M_Pixel_OnFire
+[2018.05.22-14.52.12:183][241]LogMaterial: Missing cached shader map for material M_Pixel_OnFire, compiling. 
+[2018.05.22-14.52.12:208][241]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.22-14.52.12:208][241]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.22-14.52.12:208][241]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.22-14.52.12:208][241]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.22-14.52.12:218][241]LogMaterial: Missing cached shader map for material M_Pixel_OnFire, compiling. 
+[2018.05.22-14.52.12:235][241]LogMaterial: Missing cached shader map for material M_Pixel_OnFire, compiling. 
+[2018.05.22-14.52.12:334][241]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.22-14.52.12:334][241]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Pixel_OnFire, compiling. 
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.22-14.52.13:052][241]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.22-14.52.13:053][241]TextureStreamingBuild: Display: Compiling optional shaders took 0.726 seconds.
+[2018.05.22-14.52.13:388][261]LogMaterialEditor: Saving and Compiling material M_Pixel_OnFire
+[2018.05.22-14.52.14:715][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Pixel_OnFire" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_OnFire.uasset" SILENT=true
+[2018.05.22-14.52.14:726][261]LogSavePackage: Save=9.62ms
+[2018.05.22-14.52.14:726][261]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/M_Pixel_OnFireF92BDF3045D4AE50436AC5A765B16FF4.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_OnFire.uasset'
+[2018.05.22-14.52.14:726][261]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/Materials/M_Pixel_OnFire.uasset
+[2018.05.22-14.52.14:732][261]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.22-14.52.14:732][261]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.22-14.52.14:732][261]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.22-14.52.14:732][261]MaterialEditorStats: Texture samplers: 4/16
+[2018.05.22-14.52.14:732][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.22-14.52.17:808][610]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.52.17:816][610]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.22-14.52.17:825][610]LogPlayLevel: [PlayLevel] Compiling BP_Pixel before play...
+[2018.05.22-14.52.17:834][610]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000055a4d780, Size=120
+[2018.05.22-14.52.17:834][610]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000cb365280, Size=120, Default__BP_Pixel_C Function /Engine/Transient.REINST_BP_Pixel_C_39:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.52.17:837][610]LogBlueprint: Error: [Compiler BP_Pixel] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.05.22-14.52.17:837][610]LogBlueprint: Error: [Compiler BP_Pixel] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.05.22-14.52.17:838][610]LogUObjectGlobals: Created PersistentFrame Addr=0x000000009f09f000, Size=128, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.52.17:838][610]LogBlueprint: Warning: [Compiler BP_Pixel] [2352,01] Compile of BP_Pixel failed. 2 Fatal Issue(s) 0 Warning(s) [in 13 ms] (/Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel)
+[2018.05.22-14.52.17:971][610]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000cb365280, Size=120
+[2018.05.22-14.52.17:971][610]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (1 blueprints)
+[2018.05.22-14.52.17:971][610]BlueprintLog: Blueprint BP_Pixel failed to compile
+[2018.05.22-14.52.20:618][610]LogSlate: Window 'Message' being destroyed
+[2018.05.22-14.52.39:770][120]BlueprintLog: New page: Compile BP_Pixel
+[2018.05.22-14.52.39:789][120]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000009f09f000, Size=128
+[2018.05.22-14.52.39:789][120]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000bd8b3280, Size=128, Default__BP_Pixel_C Function /Engine/Transient.REINST_BP_Pixel_C_43:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.52.39:792][120]LogBlueprint: Error: [Compiler BP_Pixel] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.05.22-14.52.39:792][120]LogBlueprint: Error: [Compiler BP_Pixel] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.05.22-14.52.39:793][120]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000cb776b00, Size=128, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.52.39:912][120]LogBlueprint: Warning: [Compiler BP_Pixel] [2374,08] Compile of BP_Pixel failed. 2 Fatal Issue(s) 0 Warning(s) [in 141 ms] (/Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel)
+[2018.05.22-14.52.54:791][348]BlueprintLog: New page: Compile BP_Pixel
+[2018.05.22-14.52.54:811][348]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000cb776b00, Size=128
+[2018.05.22-14.52.54:811][348]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000b26af680, Size=128, BP_Pixel_C_55 Function /Engine/Transient.REINST_BP_Pixel_C_47:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.52.54:815][348]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000c407a700, Size=128, Default__BP_Pixel_C Function /Game/MiniGame02/Blueprints/BP_Pixel.BP_Pixel_C:ExecuteUbergraph_BP_Pixel
+[2018.05.22-14.52.54:932][348]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000bd8b3280, Size=128
+[2018.05.22-14.52.58:237][644]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.22-14.52.58:254][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.22-14.52.58:254][644]PIE: New page: PIE session: Level01 (22.05.2018 18:52:58)
+[2018.05.22-14.52.58:254][644]LogPlayLevel: Creating play world package: /Game/MiniGame02/UEDPIE_0_Level01
+[2018.05.22-14.52.58:259][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005151s)
+[2018.05.22-14.52.58:260][644]LogAIModule: Creating AISystem for world Level01
+[2018.05.22-14.52.58:260][644]LogPlayLevel: PIE: World Init took: (0.000472s)
+[2018.05.22-14.52.58:260][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MiniGame02/Level01.Level01 to /Game/MiniGame02/UEDPIE_0_Level01.Level01 (0.005744s)
+[2018.05.22-14.52.58:275][644]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000b26af680, Size=128
+[2018.05.22-14.52.58:282][644]LogInit: XAudio2 using 'Analog (1-8) (RME Hammerfall DSP)' : 6 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.22-14.52.58:291][644]LogInit: FAudioDevice initialized.
+[2018.05.22-14.52.58:329][644]LogLoad: Game class is 'GameModeBase'
+[2018.05.22-14.52.58:333][644]LogWorld: Bringing World /Game/MiniGame02/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2018.05.22-16.52.58
+[2018.05.22-14.52.58:334][644]LogWorld: Bringing up level for play took: 0.004290
+[2018.05.22-14.52.58:340][644]PIE: Play in editor start time for /Game/MiniGame02/UEDPIE_0_Level01 0,187
+[2018.05.22-14.53.12:060][218]LogSlate: Window 'EcoChampion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.22-14.53.18:009][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame02/Level01" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.22-14.53.18:107][912]LogSavePackage: Save=81.80ms
+[2018.05.22-14.53.18:107][912]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/Level013AC624DE425B1EFDA6EC4A984CAA3A61.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap'
+[2018.05.22-14.53.18:107][912]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Level01.umap
+[2018.05.22-14.53.18:117][912]LogFileHelpers: Saving map 'Level01' took 0.138
+[2018.05.22-14.53.18:129][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame02/Blueprints/BP_Pixel" FILE="D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Blueprints/BP_Pixel.uasset" SILENT=true
+[2018.05.22-14.53.18:161][912]LogSavePackage: Save=31.05ms
+[2018.05.22-14.53.18:161][912]LogSavePackage: Moving 'D:/New Festplatte/Projekte/EcoChampion/Saved/BP_PixelC4322B4A40DD582E987689A01065A0D3.tmp' to 'D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Blueprints/BP_Pixel.uasset'
+[2018.05.22-14.53.18:161][912]LogSavePackage: Display: Finished SavePackage D:/New Festplatte/Projekte/EcoChampion/Content/MiniGame02/Blueprints/BP_Pixel.uasset
